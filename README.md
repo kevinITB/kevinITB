@@ -1,4 +1,10 @@
-## Hi there 👋
+Bienvenido :grinning:
+
+Buenas me llamo kevin llevo siendo fanatico de la tecnologia desde que toque mi primer ordenador.:robot:
+Trabajo actualmente en un restaurante pero me estoy formando en DAM para de una vez meterme al ambito tecnologico.:hocho:
+Me encataria colaborar con gente dispuesta a enseñar y colaborar en proyectos en conjunto con trabajos de valor mas personal.:handshake:
+Me gustaria aprender sobre robotica, domotica, y automatizacion, si puedo ayudar con algo lo hare con mucho gusto. Siempre con ganas de aprender cosas nuevas e innovadoras. :brain:
+Si quieres saber mas de mi a nivel profesional o personal, adelante siempre estoy dispuesto a conocer gente nueva.:wave:
 
 <!--
 **kevinITB/kevinITB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
